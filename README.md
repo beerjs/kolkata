@@ -31,7 +31,7 @@ or if you want to know more about BeerJS, you can seek out the creator. :) @ [Jo
 
 ### Contact
 You can join us at our [Slack Workplace](https://beerjs-slack-invite.herokuapp.com).
-Or Our [Facebook Page](http).
+Or Our [Facebook Page](https://www.facebook.com/beerjskolkata/).
 
  
 ### Code of Conduct
